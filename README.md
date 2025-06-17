@@ -6,7 +6,7 @@ Todos desenvolvidos em JavaScript com Node.js (24.1.0)
 
 ### Primeiros Passos
 - [x] 1. Crie um programa que escreva "Olá, Mundo!" na tela.
-- [ ] 2. Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas.
+- [x] 2. Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas.
 - [ ] 3. Crie um programa que leia dois números e mostre a soma entre eles.
 - [ ] 4. Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele: Um texto vazio, Um número, Um alfabético, Um alfanúmerico, Está em maiúsculas, Está em minúsculas, Está capitalizada e por fim informe o tipo do texto.
 
