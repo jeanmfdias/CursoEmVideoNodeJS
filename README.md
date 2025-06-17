@@ -8,7 +8,7 @@ Todos desenvolvidos em JavaScript com Node.js (24.1.0)
 - [x] 1. Crie um programa que escreva "Olá, Mundo!" na tela.
 - [x] 2. Faça um programa que leia o nome de uma pessoa e mostre uma mensagem de boas-vindas.
 - [x] 3. Crie um programa que leia dois números e mostre a soma entre eles.
-- [ ] 4. Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele: Um texto vazio, Um número, Um alfabético, Um alfanúmerico, Está em maiúsculas, Está em minúsculas, Está capitalizada e por fim informe o tipo do texto.
+- [x] 4. Faça um programa que leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele: Um texto vazio, Um número, Um alfabético, Um alfanúmerico, Está em maiúsculas, Está em minúsculas, Está capitalizada e por fim informe o tipo do texto.
 
 ### Cálculos e Operações
 - [ ] 5. Faça um programa que leia um número inteiro e mostre na tela o seu sucessor e seu antecessor.
